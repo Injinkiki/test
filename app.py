@@ -1,7 +1,6 @@
 import http.server
 import socketserver
 import subprocess
-subprocess.call(['python', 'test.py'])
 
 # 웹 서버를 시작할 포트 번호 설정 (예: 8080)
 port = 8080
